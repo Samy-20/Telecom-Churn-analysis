@@ -76,7 +76,7 @@ ConnectPlus Telecom is losing customers at a rate the leadership team finds conc
 - *Why it matters:* price sensitivity is likely a factor, especially for fiber optic users.
 
 **Finding 4: Customers without add-on support services churn more**
-- Customers without Tech Support or Online Security churn at **[XX]%**.
+- Customers without Tech Support or Online Security churn at **41.64%**.
 
 **Finding 5: Payment method matters**
 - Electronic check users show the highest churn at **45.29%**.

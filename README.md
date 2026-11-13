@@ -64,22 +64,22 @@ ConnectPlus Telecom is losing customers at a rate the leadership team finds conc
 > Replace the numbers below with your own results.
 
 **Finding 1: Contract type is the strongest churn driver**
-- Month-to-month customers churn at **[XX]%**, versus **[XX]%** for two-year contracts.
+- Month-to-month customers churn at **42.71%**, versus **2.83%** for two-year contracts.
 - *Why it matters:* short contracts make it easy for customers to leave.
 
 **Finding 2: Early-tenure customers are most at risk**
-- Customers in their first **[X] months** show the highest churn.
+- Customers in their first **12 months** show the highest churn.
 - *Why it matters:* the onboarding period is where the company loses the most customers.
 
 **Finding 3: Higher monthly charges are linked to higher churn**
-- Customers paying above **$[XX]** per month churn more often.
+- Customers paying above **$74.44** per month churn more often.
 - *Why it matters:* price sensitivity is likely a factor, especially for fiber optic users.
 
 **Finding 4: Customers without add-on support services churn more**
 - Customers without Tech Support or Online Security churn at **[XX]%**.
 
 **Finding 5: Payment method matters**
-- Electronic check users show the highest churn at **[XX]%**.
+- Electronic check users show the highest churn at **45.29%**.
 
 ## 8. Model Performance (Optional)
 
